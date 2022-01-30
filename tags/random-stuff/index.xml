@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>random stuff on Ammar Al-Batool</title>
+    <link>http://example.org/tags/random-stuff/</link>
+    <description>Recent content in random stuff on Ammar Al-Batool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 30 Jan 2022 22:30:47 +0000</lastBuildDate><atom:link href="http://example.org/tags/random-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Internet</title>
+      <link>http://example.org/posts/hello-internet/</link>
+      <pubDate>Sun, 30 Jan 2022 22:30:47 +0000</pubDate>
+      
+      <guid>http://example.org/posts/hello-internet/</guid>
+      <description>Hello fellow visitor. My name is Ammar Al-Batool. I&amp;rsquo;m a software engineer who is interested in distributed systems. In this blog, I want to share all stuff related to communication, algorithms and distributed systems. This has been long overdue, but finally arrived.
+For the past years, I&amp;rsquo;ve worked at companies that deal with big scale, so I&amp;rsquo;ve accumulated a fair share of interesting knowledge in this regard.
+The layout might change, but the content will stay the same.</description>
+    </item>
+    
+  </channel>
+</rss>
