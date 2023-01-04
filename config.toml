@@ -11,7 +11,7 @@ theme = "hello-friend-ng"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Random thoughts about software engineering."
+  homeSubtitle = "When a man steps out of his given environment."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -43,9 +43,9 @@ theme = "hello-friend-ng"
 
 [languages]
   [languages.en]
-    title = "Ammar Al-Batool"
-    subtitle = "Human Android"
-    keywords = "Distributed systems. Scala."
+    title = "Personal Blog"
+    subtitle = "Outside the Desert"
+    keywords = "Programming. Distributed systems. Software. Life. Scala."
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
