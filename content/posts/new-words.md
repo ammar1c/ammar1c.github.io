@@ -17,3 +17,9 @@ tags:
 Example:
 
 - learning is an alteration of long-term memory
+---
+
+**Palatable**:
+- (of a food or drink) pleasant to taste
+- (of an action or proposal) acceptable or satisfactory
+---

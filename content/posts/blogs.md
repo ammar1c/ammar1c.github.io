@@ -8,15 +8,18 @@ tags:
   - untagged
 ---
 
-link:
-https://maggieappleton.com/
-
-about:
-
-Maggie makes visual essays about programming, design, and anthropology
+## Table of Contents
+1. [Internet/Technology](#technology)
+2. [Software engineering](#software-engineering)
 
 
-link:
+## Technology
+- [Maggie](https://maggieappleton.com/) - visual essays about programming, design and anthropology.
 
+
+## Software Engineering
+
+- Netflix, Dropbox, Cloudflare, Spotify
+- 
 
 
