@@ -20,6 +20,7 @@ tags:
 ## Software Engineering
 
 - Netflix, Dropbox, Cloudflare, Spotify
-- 
+- Scala: 
+  - [autoscout24.com](https://tech.autoscout24.com/)
 
 
