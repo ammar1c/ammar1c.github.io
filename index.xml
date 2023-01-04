@@ -36,7 +36,8 @@ Make: Bootstrappers Handbook </description>
       <description>alteration: the action or the process of altering or being altered
 alter: change in character or composition, typically in a comparatively small but significant way
 Example:
-learning is an alteration of long-term memory </description>
+learning is an alteration of long-term memory Palatable:
+(of a food or drink) pleasant to taste (of an action or proposal) acceptable or satisfactory </description>
     </item>
     
     <item>
@@ -45,10 +46,7 @@ learning is an alteration of long-term memory </description>
       <pubDate>Wed, 04 Jan 2023 18:57:34 +0100</pubDate>
       
       <guid>https://ammar1c.github.io/posts/blogs/</guid>
-      <description>link: https://maggieappleton.com/
-about:
-Maggie makes visual essays about programming, design, and anthropology
-link:</description>
+      <description>Table of Contents Internet/Technology Software engineering Technology Maggie - visual essays about programming, design and anthropology. Software Engineering Netflix, Dropbox, Cloudflare, Spotify </description>
     </item>
     
     <item>
@@ -66,9 +64,7 @@ link:</description>
       <pubDate>Sun, 30 Jan 2022 22:30:47 +0000</pubDate>
       
       <guid>https://ammar1c.github.io/posts/hello-internet/</guid>
-      <description>Hello fellow visitor. My name is Ammar Al-Batool. I&amp;rsquo;m a software engineer who is interested in distributed systems. In this blog, I want to share all stuff related to communication, algorithms and distributed systems. This has been long overdue, but finally arrived.
-For the past years, I&amp;rsquo;ve worked at companies that deal with big scale, so I&amp;rsquo;ve accumulated a fair share of interesting knowledge in this regard.
-The layout might change, but the content will stay the same.</description>
+      <description>println!(&amp;#34;Hello, world!&amp;#34;); </description>
     </item>
     
   </channel>
