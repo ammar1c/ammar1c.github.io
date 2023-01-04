@@ -31,7 +31,7 @@ Make: Bootstrappers Handbook </description>
             <pubDate>Wed, 04 Jan 2023 19:04:54 +0100</pubDate>
             
             <guid>https://ammar1c.github.io/posts/interesting-articles/</guid>
-            <description> Learning Learning is remembering [Anki-esque tool] https://saveall.ai/add Distributed systems Data driven Club How complex systems fail Software Engineering/ [The Manager Handbook] https://themanagershandbook.com/ [] </description>
+            <description> Learning Learning is remembering [Anki-esque tool] https://saveall.ai/add Distributed systems Data driven Club How complex systems fail Software Engineering/ The Manager Handbook You want modules, not microservices </description>
             <content type="html"><![CDATA[<ol>
 <li>Learning
 <ul>
@@ -48,8 +48,8 @@ Make: Bootstrappers Handbook </description>
 </li>
 <li>Software Engineering/
 <ul>
-<li>[The Manager Handbook] <a href="https://themanagershandbook.com/">https://themanagershandbook.com/</a></li>
-<li>[]</li>
+<li><a href="https://themanagershandbook.com/">The Manager Handbook</a></li>
+<li><a href="http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html">You want modules, not microservices</a></li>
 </ul>
 </li>
 </ol>
@@ -89,7 +89,7 @@ learning is an alteration of long-term memory Palatable:
             <pubDate>Wed, 04 Jan 2023 18:57:34 +0100</pubDate>
             
             <guid>https://ammar1c.github.io/posts/blogs/</guid>
-            <description>Table of Contents Internet/Technology Software engineering Technology Maggie - visual essays about programming, design and anthropology. Software Engineering Netflix, Dropbox, Cloudflare, Spotify </description>
+            <description>Table of Contents Internet/Technology Software engineering Technology Maggie - visual essays about programming, design and anthropology. Software Engineering Netflix, Dropbox, Cloudflare, Spotify Scala: autoscout24.com </description>
             <content type="html"><![CDATA[<h2 id="table-of-contents">Table of Contents</h2>
 <ol>
 <li><a href="#technology">Internet/Technology</a></li>
@@ -102,7 +102,11 @@ learning is an alteration of long-term memory Palatable:
 <h2 id="software-engineering">Software Engineering</h2>
 <ul>
 <li>Netflix, Dropbox, Cloudflare, Spotify</li>
-<li></li>
+<li>Scala:
+<ul>
+<li><a href="https://tech.autoscout24.com/">autoscout24.com</a></li>
+</ul>
+</li>
 </ul>
 ]]></content>
         </item>
