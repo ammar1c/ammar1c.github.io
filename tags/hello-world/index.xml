@@ -10,10 +10,10 @@
     <lastBuildDate>Sun, 30 Jan 2022 22:30:47 +0000</lastBuildDate><atom:link href="https://ammar1c.github.io/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Internet</title>
-      <link>https://ammar1c.github.io/posts/hello-internet/</link>
+      <link>https://ammar1c.github.io/lists/hello-internet/</link>
       <pubDate>Sun, 30 Jan 2022 22:30:47 +0000</pubDate>
       
-      <guid>https://ammar1c.github.io/posts/hello-internet/</guid>
+      <guid>https://ammar1c.github.io/lists/hello-internet/</guid>
       <description>println!(&amp;#34;Hello, world!&amp;#34;); </description>
     </item>
     
