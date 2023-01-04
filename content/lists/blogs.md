@@ -25,6 +25,9 @@ tags:
 
 ## Software Engineering Nano
 - [Tristan Hume](https://thume.ca/) - Good stuff about Rust
+- [Irrational Exuberance](https://lethain.com/) - Blog about engineering management and life in general
+- [The manager handbook](https://themanagershandbook.com/) - Engineering management strikes again
+- [Alex Maccaw](https://blog.alexmaccaw.com/) - Nice guy
 - 
 
 

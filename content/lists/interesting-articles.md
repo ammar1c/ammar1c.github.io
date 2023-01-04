@@ -17,6 +17,6 @@ tags:
    - [Data driven Club](https://datadriven.club/)
    - [How complex systems fail](https://how.complexsystems.fail/#1)
    - 
-3. Software Engineering/
+3. Software Engineering
    - [The Manager Handbook](https://themanagershandbook.com/)
    - [You want modules, not microservices](http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html)
