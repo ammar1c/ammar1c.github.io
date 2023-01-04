@@ -6,8 +6,146 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 30 Jan 2022 22:30:47 +0000</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 19:24:31 +0100</lastBuildDate>
         <atom:link href="https://ammar1c.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Books</title>
+            <link>https://ammar1c.github.io/posts/books/</link>
+            <pubDate>Wed, 04 Jan 2023 19:24:31 +0100</pubDate>
+            
+            <guid>https://ammar1c.github.io/posts/books/</guid>
+            <description>Check out:
+Make: Bootstrappers Handbook </description>
+            <content type="html"><![CDATA[<p>Check out:</p>
+<ul>
+<li><a href="https://www.producthunt.com/products/make-bootstrappers-handbook?comment=585079#make-book-the-indie-maker-handbook">Make: Bootstrappers Handbook</a></li>
+<li></li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Interesting Articles/Books</title>
+            <link>https://ammar1c.github.io/posts/interesting-articles/</link>
+            <pubDate>Wed, 04 Jan 2023 19:04:54 +0100</pubDate>
+            
+            <guid>https://ammar1c.github.io/posts/interesting-articles/</guid>
+            <description> Learning Learning is remembering [Anki-esque tool] https://saveall.ai/add Distributed systems Data driven Club How complex systems fail Software Engineering/ [The Manager Handbook] https://themanagershandbook.com/ [] </description>
+            <content type="html"><![CDATA[<ol>
+<li>Learning
+<ul>
+<li><a href="https://saveall.ai/blog/learning-is-remembering">Learning is remembering</a></li>
+<li>[Anki-esque tool] <a href="https://saveall.ai/add">https://saveall.ai/add</a></li>
+</ul>
+</li>
+<li>Distributed systems
+<ul>
+<li><a href="https://datadriven.club/">Data driven Club</a></li>
+<li><a href="https://how.complexsystems.fail/#1">How complex systems fail</a></li>
+<li></li>
+</ul>
+</li>
+<li>Software Engineering/
+<ul>
+<li>[The Manager Handbook] <a href="https://themanagershandbook.com/">https://themanagershandbook.com/</a></li>
+<li>[]</li>
+</ul>
+</li>
+</ol>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My Dictionary</title>
+            <link>https://ammar1c.github.io/posts/new-words/</link>
+            <pubDate>Wed, 04 Jan 2023 19:01:40 +0100</pubDate>
+            
+            <guid>https://ammar1c.github.io/posts/new-words/</guid>
+            <description>alteration: the action or the process of altering or being altered
+alter: change in character or composition, typically in a comparatively small but significant way
+Example:
+learning is an alteration of long-term memory </description>
+            <content type="html"><![CDATA[<p><strong>alteration</strong>: the action or the process of altering or being altered</p>
+<p><strong>alter</strong>: change in character or composition, typically in a comparatively small but significant way</p>
+<p>Example:</p>
+<ul>
+<li>learning is an alteration of long-term memory</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Blogs</title>
+            <link>https://ammar1c.github.io/posts/blogs/</link>
+            <pubDate>Wed, 04 Jan 2023 18:57:34 +0100</pubDate>
+            
+            <guid>https://ammar1c.github.io/posts/blogs/</guid>
+            <description>link: https://maggieappleton.com/
+about:
+Maggie makes visual essays about programming, design, and anthropology
+link:</description>
+            <content type="html"><![CDATA[<p>link:
+<a href="https://maggieappleton.com/">https://maggieappleton.com/</a></p>
+<p>about:</p>
+<p>Maggie makes visual essays about programming, design, and anthropology</p>
+<p>link:</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Useful Links</title>
+            <link>https://ammar1c.github.io/posts/useful-links/</link>
+            <pubDate>Wed, 04 Jan 2023 18:41:51 +0100</pubDate>
+            
+            <guid>https://ammar1c.github.io/posts/useful-links/</guid>
+            <description>Table of Contents Introduction Tools Startups Systems Databases Programming Scala Blogs/Articles Complexity/Systems Chrome Extensions Software Engineering Introduction Tools Github copilot Chatgpt intellij iterm2 Startups AngelList Product Hunt Hackernews Systems Databases Programming Scala Blogs/Articles Complexity/Systems Chrome Extensions ublock Grammarly Software Engineering The manager handbook Alex Maccaw - stuff on AI/software etc. </description>
+            <content type="html"><![CDATA[<h2 id="table-of-contents">Table of Contents</h2>
+<ol>
+<li><a href="#introduction">Introduction</a></li>
+<li><a href="#tools">Tools</a></li>
+<li><a href="#startups">Startups</a></li>
+<li><a href="#systems">Systems</a></li>
+<li><a href="#databases">Databases</a></li>
+<li><a href="#programming">Programming</a></li>
+<li><a href="#scala">Scala</a></li>
+<li><a href="#blogs-articles">Blogs/Articles</a></li>
+<li><a href="#complexity-systems">Complexity/Systems</a></li>
+<li><a href="#chrome-extensions">Chrome Extensions</a></li>
+<li><a href="#software-engineering">Software Engineering</a></li>
+</ol>
+<h2 id="introduction">Introduction</h2>
+<h2 id="tools">Tools</h2>
+<ul>
+<li>Github copilot</li>
+<li>Chatgpt</li>
+<li>intellij</li>
+<li>iterm2</li>
+</ul>
+<h2 id="startups">Startups</h2>
+<ul>
+<li>AngelList</li>
+<li><a href="https://www.producthunt.com/">Product Hunt</a></li>
+<li>Hackernews</li>
+</ul>
+<h2 id="systems">Systems</h2>
+<h2 id="databases">Databases</h2>
+<h2 id="programming">Programming</h2>
+<h2 id="scala">Scala</h2>
+<h2 id="blogsarticles">Blogs/Articles</h2>
+<h2 id="complexitysystems">Complexity/Systems</h2>
+<h2 id="chrome-extensions">Chrome Extensions</h2>
+<ul>
+<li>ublock</li>
+<li>Grammarly</li>
+</ul>
+<h2 id="software-engineering">Software Engineering</h2>
+<ul>
+<li><a href="https://themanagershandbook.com/">The manager handbook</a></li>
+<li><a href="https://alexmaccaw.com/">Alex Maccaw</a> - stuff on AI/software etc.</li>
+</ul>
+]]></content>
+        </item>
         
         <item>
             <title>Hello Internet</title>

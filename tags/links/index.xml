@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>links on Ammar Al-Batool</title>
+    <link>https://ammar1c.github.io/tags/links/</link>
+    <description>Recent content in links on Ammar Al-Batool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 04 Jan 2023 18:41:51 +0100</lastBuildDate><atom:link href="https://ammar1c.github.io/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Useful Links</title>
+      <link>https://ammar1c.github.io/posts/useful-links/</link>
+      <pubDate>Wed, 04 Jan 2023 18:41:51 +0100</pubDate>
+      
+      <guid>https://ammar1c.github.io/posts/useful-links/</guid>
+      <description>Table of Contents Introduction Tools Startups Systems Databases Programming Scala Blogs/Articles Complexity/Systems Chrome Extensions Software Engineering Introduction Tools Github copilot Chatgpt intellij iterm2 Startups AngelList Product Hunt Hackernews Systems Databases Programming Scala Blogs/Articles Complexity/Systems Chrome Extensions ublock Grammarly Software Engineering The manager handbook Alex Maccaw - stuff on AI/software etc. </description>
+    </item>
+    
+  </channel>
+</rss>

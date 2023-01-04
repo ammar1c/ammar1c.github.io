@@ -7,7 +7,59 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 30 Jan 2022 22:30:47 +0000</lastBuildDate><atom:link href="https://ammar1c.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 19:24:31 +0100</lastBuildDate><atom:link href="https://ammar1c.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://ammar1c.github.io/posts/books/</link>
+      <pubDate>Wed, 04 Jan 2023 19:24:31 +0100</pubDate>
+      
+      <guid>https://ammar1c.github.io/posts/books/</guid>
+      <description>Check out:
+Make: Bootstrappers Handbook </description>
+    </item>
+    
+    <item>
+      <title>Interesting Articles/Books</title>
+      <link>https://ammar1c.github.io/posts/interesting-articles/</link>
+      <pubDate>Wed, 04 Jan 2023 19:04:54 +0100</pubDate>
+      
+      <guid>https://ammar1c.github.io/posts/interesting-articles/</guid>
+      <description> Learning Learning is remembering [Anki-esque tool] https://saveall.ai/add Distributed systems Data driven Club How complex systems fail Software Engineering/ [The Manager Handbook] https://themanagershandbook.com/ [] </description>
+    </item>
+    
+    <item>
+      <title>My Dictionary</title>
+      <link>https://ammar1c.github.io/posts/new-words/</link>
+      <pubDate>Wed, 04 Jan 2023 19:01:40 +0100</pubDate>
+      
+      <guid>https://ammar1c.github.io/posts/new-words/</guid>
+      <description>alteration: the action or the process of altering or being altered
+alter: change in character or composition, typically in a comparatively small but significant way
+Example:
+learning is an alteration of long-term memory </description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://ammar1c.github.io/posts/blogs/</link>
+      <pubDate>Wed, 04 Jan 2023 18:57:34 +0100</pubDate>
+      
+      <guid>https://ammar1c.github.io/posts/blogs/</guid>
+      <description>link: https://maggieappleton.com/
+about:
+Maggie makes visual essays about programming, design, and anthropology
+link:</description>
+    </item>
+    
+    <item>
+      <title>Useful Links</title>
+      <link>https://ammar1c.github.io/posts/useful-links/</link>
+      <pubDate>Wed, 04 Jan 2023 18:41:51 +0100</pubDate>
+      
+      <guid>https://ammar1c.github.io/posts/useful-links/</guid>
+      <description>Table of Contents Introduction Tools Startups Systems Databases Programming Scala Blogs/Articles Complexity/Systems Chrome Extensions Software Engineering Introduction Tools Github copilot Chatgpt intellij iterm2 Startups AngelList Product Hunt Hackernews Systems Databases Programming Scala Blogs/Articles Complexity/Systems Chrome Extensions ublock Grammarly Software Engineering The manager handbook Alex Maccaw - stuff on AI/software etc. </description>
+    </item>
+    
     <item>
       <title>Hello Internet</title>
       <link>https://ammar1c.github.io/posts/hello-internet/</link>
