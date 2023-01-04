@@ -1,6 +1,6 @@
 baseURL = 'https://ammar1c.github.io'
 languageCode = 'en-us'
-title = 'Ammar Al-Batool'
+title = 'Ammar'
 theme = "hello-friend-ng"
 
 
@@ -50,7 +50,7 @@ theme = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Hello Internet"
+      logoText = "Outside the Desert"
       logoHomeLink = "/"
     # or
     #
