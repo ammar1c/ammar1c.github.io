@@ -2,62 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ammar1c.github.io/lists/</loc>
-    <lastmod>2023-01-04T21:05:49+01:00</lastmod>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>https://ammar1c.github.io/</loc>
-    <lastmod>2023-01-04T21:05:49+01:00</lastmod>
+    <loc>https://example.org/</loc>
   </url><url>
-    <loc>https://ammar1c.github.io/lists/scala-ecosystem/</loc>
-    <lastmod>2023-01-04T21:05:49+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/</loc>
-    <lastmod>2023-01-04T21:05:49+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/untagged/</loc>
-    <lastmod>2023-01-04T21:05:49+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/lists/quotes/</loc>
-    <lastmod>2023-01-04T21:05:39+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/lists/books/</loc>
-    <lastmod>2023-01-04T19:24:31+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/lists/interesting-articles/</loc>
-    <lastmod>2023-01-04T19:04:54+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/dictionary/</loc>
-    <lastmod>2023-01-04T19:01:40+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/english/</loc>
-    <lastmod>2023-01-04T19:01:40+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/lists/new-words/</loc>
-    <lastmod>2023-01-04T19:01:40+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/lists/blogs/</loc>
-    <lastmod>2023-01-04T18:57:34+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/links/</loc>
-    <lastmod>2023-01-04T18:41:51+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/lists/</loc>
-    <lastmod>2023-01-04T18:41:51+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/lists/useful-links/</loc>
-    <lastmod>2023-01-04T18:41:51+01:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/lists/hello-internet/</loc>
-    <lastmod>2022-01-30T22:30:47+00:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/hello-world/</loc>
-    <lastmod>2022-01-30T22:30:47+00:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/tags/random-stuff/</loc>
-    <lastmod>2022-01-30T22:30:47+00:00</lastmod>
-  </url><url>
-    <loc>https://ammar1c.github.io/blog/</loc>
-  </url><url>
-    <loc>https://ammar1c.github.io/series/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
