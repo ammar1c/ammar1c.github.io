@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>distributed system on Ammar</title>
-    <link>https://example.org/tags/distributed-system/</link>
+    <link>https://ammar1c.github.io/tags/distributed-system/</link>
     <description>Recent content in distributed system on Ammar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 21:55:42 +0200</lastBuildDate><atom:link href="https://example.org/tags/distributed-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 21:55:42 +0200</lastBuildDate><atom:link href="https://ammar1c.github.io/tags/distributed-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to Distributed System</title>
-      <link>https://example.org/posts/distributed-systems/</link>
+      <link>https://ammar1c.github.io/posts/distributed-systems/</link>
       <pubDate>Sun, 24 Sep 2023 21:55:42 +0200</pubDate>
       
-      <guid>https://example.org/posts/distributed-systems/</guid>
+      <guid>https://ammar1c.github.io/posts/distributed-systems/</guid>
       <description>This is about distributed systems and how to fail early and often. What Distributed systems:
 Leslie Lamport: &amp;ldquo;A distributed system is a system in which a computer that you didn&amp;rsquo;t know existed can render your computer unusable&amp;rdquo;
 Why Distributed systems are used when the capacity of a single computer isn&amp;rsquo;t enough to meet our needs. A single computer have finite resources such network bandwidth, compute power, memory and persisten storage.</description>
