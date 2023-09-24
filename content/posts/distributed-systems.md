@@ -1,8 +1,15 @@
 +++
 title = 'Intro to Distributed System'
 date = 2023-09-24T21:55:42+02:00
-draft = true
+draft = false
+categories = distributed systems
 +++
+
+
+This is about distributed systems
+and how to fail early and often.
+---
+
 
 ## What
 
