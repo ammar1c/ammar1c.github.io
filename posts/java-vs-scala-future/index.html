@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html><head>
-	<meta name="generator" content="Hugo 0.119.0">
 <meta charset="utf-8"/>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -9,7 +8,7 @@
 <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
 
 
-<title>Ammar</title>
+<title>Ammar | Async processing in Java vs Scala</title>
 </head>
 <body>
 		 <div class="max-w-{1400px}">
@@ -25,11 +24,11 @@
                 
 
                 
-                <div class="pb-3 text-lg border-b-red-700 border-b-4">
-                        <p>Home</p> 
+                <div class="pb-3 border-b-white border-b-4 text-lg hover:border-b-red-700">
 
+                                <a  href="/"> Home</a>
+                        
                 </div>
-
                 
         
 
@@ -59,55 +58,8 @@
 			<div class="col-span-12 lg:col-span-8">
 
 
-	<h1 class="text-2xl font-bold mb-7">Ammar </h1>
+<h1 class="text-2xl font-bold mb-2">Async processing in Java vs Scala</h1>
 
-
-<div class="mb-7 single">
-
-</div>
-
-<h2 class="text-2xl font-medium mb-5"> Most recent blog posts: </h2>
-
-
-	<div class="mb-7 ">
-
-		
-<div class="grid grid-cols-12 gap-4">
-		<div class=" col-span-12 ">
-		<h2 class="text-xl font-medium"><a href="/posts/distributed-systems/" class="text-cyan-900 hover:underline">Intro to Distributed System</a></h2>
-		
-
-<div class="flex flex-row gap-2 mb-2">
-
-<div>
-	<datetime class="text-zinc-500">2023-09-24</datetime></div>
-
-
-
-
-<div><a href="https://example.org/tags/distributed-system" class="text-cyan-600">#distributed system</a></div>
-
-
-</div>	
-		<p>This is about distributed systems and how to fail early and often. What Distributed systems:
-Leslie Lamport: &ldquo;A distributed system is a system in which a computer that you didn&rsquo;t know existed can render your computer unusable&rdquo;
-Why Distributed systems are used when the capacity of a single computer isn&rsquo;t enough to meet our needs. A single computer have finite resources such network bandwidth, compute power, memory and persisten storage.</p>
-	</div>
-
-
-		
-	</div>
-		
-</div>
-
-
-	<div class="mb-7 ">
-
-		
-<div class="grid grid-cols-12 gap-4">
-		<div class=" col-span-12 ">
-		<h2 class="text-xl font-medium"><a href="/posts/java-vs-scala-future/" class="text-cyan-900 hover:underline">Async processing in Java vs Scala</a></h2>
-		
 
 <div class="flex flex-row gap-2 mb-2">
 
@@ -115,20 +67,18 @@ Why Distributed systems are used when the capacity of a single computer isn&rsqu
 	<datetime class="text-zinc-500">2023-09-23</datetime></div>
 
 
-</div>	
-		<p>transforming a future in scala:
-val f = Future(1).map(x =&gt; x+1) in java:
-var x = CompletableFuture.completedFuture(1); x.thenApply(y -&gt; y+1); </p>
-	</div>
-
-
-		
-	</div>
-		
 </div>
 
+<div class="single">
 
+<p>transforming a future in scala:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-scala" data-lang="scala"><span style="display:flex;"><span><span style="color:#66d9ef">val</span> f <span style="color:#66d9ef">=</span> <span style="color:#a6e22e">Future</span><span style="color:#f92672">(</span><span style="color:#ae81ff">1</span><span style="color:#f92672">).</span>map<span style="color:#f92672">(</span>x <span style="color:#66d9ef">=&gt;</span> x<span style="color:#f92672">+</span><span style="color:#ae81ff">1</span><span style="color:#f92672">)</span>
+</span></span></code></pre></div><p>in java:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"><span style="display:flex;"><span>var x <span style="color:#f92672">=</span> CompletableFuture<span style="color:#f92672">.</span><span style="color:#a6e22e">completedFuture</span><span style="color:#f92672">(</span><span style="color:#ae81ff">1</span><span style="color:#f92672">);</span>
+</span></span><span style="display:flex;"><span>x<span style="color:#f92672">.</span><span style="color:#a6e22e">thenApply</span><span style="color:#f92672">(</span>y <span style="color:#f92672">-&gt;</span> y<span style="color:#f92672">+</span><span style="color:#ae81ff">1</span><span style="color:#f92672">);</span>
+</span></span></code></pre></div>
 
+</div>
 
 			</div>
 

@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Ammar</title>
     <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Ammar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Sep 2023 21:55:42 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <title>About me</title>
+      <link>https://example.org/about/</link>
       <pubDate>Sun, 24 Sep 2023 21:55:42 +0200</pubDate>
       
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <guid>https://example.org/about/</guid>
+      <description>I&amp;rsquo;m a software engineer.
+For the past 5 years, I&amp;rsquo;ve been working on distributed systems. I worked at Disney Streaming Services, where I was responsible for developing a QoS dashboard for monitoring the overall health of the streaming platform. I worked with technologies like scala, AWS.</description>
+    </item>
+    
+    <item>
+      <title>Intro to Distributed System</title>
+      <link>https://example.org/posts/distributed-systems/</link>
+      <pubDate>Sun, 24 Sep 2023 21:55:42 +0200</pubDate>
+      
+      <guid>https://example.org/posts/distributed-systems/</guid>
+      <description>This is about distributed systems and how to fail early and often. What Distributed systems:
+Leslie Lamport: &amp;ldquo;A distributed system is a system in which a computer that you didn&amp;rsquo;t know existed can render your computer unusable&amp;rdquo;
+Why Distributed systems are used when the capacity of a single computer isn&amp;rsquo;t enough to meet our needs. A single computer have finite resources such network bandwidth, compute power, memory and persisten storage.</description>
+    </item>
+    
+    <item>
+      <title>Async processing in Java vs Scala</title>
+      <link>https://example.org/posts/java-vs-scala-future/</link>
+      <pubDate>Sat, 23 Sep 2023 21:55:42 +0200</pubDate>
+      
+      <guid>https://example.org/posts/java-vs-scala-future/</guid>
+      <description>transforming a future in scala:
+val f = Future(1).map(x =&amp;gt; x+1) in java:
+var x = CompletableFuture.completedFuture(1); x.thenApply(y -&amp;gt; y+1); </description>
     </item>
     
   </channel>
