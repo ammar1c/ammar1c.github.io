@@ -2,7 +2,9 @@
 title = 'Intro to Distributed System'
 date = 2023-09-24T21:55:42+02:00
 draft = false
-categories = distributed systems
+categories = ["distributed systems"]
+tags = ['distributed system']
+
 +++
 
 

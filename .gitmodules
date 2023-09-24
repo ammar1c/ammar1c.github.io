@@ -4,3 +4,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/monday-theme"]
+    path = themes/monday-theme
+    url = https://github.com/cyevgeniy/monday-theme.git
